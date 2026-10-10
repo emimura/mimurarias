@@ -1,0 +1,3 @@
+# app-ads.txt - Mimurarias
+# Publisher ID AdMob: pub-2551042610193413
+google.com, pub-2551042610193413, DIRECT, f08c47fec0942fa0
